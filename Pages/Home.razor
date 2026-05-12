@@ -1,0 +1,25 @@
+﻿@page "/"
+
+<h1>Greeting App 👋</h1>
+
+<input placeholder="Enter your name"
+       @bind="personName" />
+
+<button @onclick="ShowGreeting">
+    Greet Me
+</button>
+
+@if (!string.IsNullOrWhiteSpace(greeting))
+{
+    <h3>@greeting</h3>
+}
+
+@code {
+    private string personName = "";
+    private string greeting = "";
+
+    private void ShowGreeting()
+    {
+        greeting = $"Hi {personName}, how are you?";
+    }
+}
