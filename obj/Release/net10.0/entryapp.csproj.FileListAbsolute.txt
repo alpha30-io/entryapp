@@ -206,9 +206,6 @@ C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\dotnet.runtime.js
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.9phy41jqun.wasm
-C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.eecaqu46b1.pdb
-C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\dotnet.836nmt75mb.js
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\blazor.webassembly.zxhwjtv6sc.js.gz
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.y0sndbe2xe.wasm.gz
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.09qh35fcip.wasm.gz
@@ -416,9 +413,6 @@ C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\dotnet.runtime.js
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.9phy41jqun.wasm.gz
-C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.eecaqu46b1.pdb.gz
-C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\dotnet.836nmt75mb.js.gz
 C:\Users\ragha\entryapp\bin\Release\net10.0\entryapp.staticwebassets.runtime.json
 C:\Users\ragha\entryapp\bin\Release\net10.0\entryapp.staticwebassets.endpoints.json
 C:\Users\ragha\entryapp\bin\Release\net10.0\entryapp.dll
@@ -1105,10 +1099,6 @@ C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\m0htevckap-{0}-mt6vzsvx1b
 C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\tvy1gpy4h9-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\0qwsbbxf5c-{0}-tptq2av103-tptq2av103.gz
 C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\1og1eoi96r-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\kujhau81xx-{0}-9phy41jqun-9phy41jqun.gz
-C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\zop699ela8-{0}-eecaqu46b1-eecaqu46b1.gz
-C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\duesulmsx1-{0}-836nmt75mb-836nmt75mb.gz
-C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\8k4v6bpyae-{0}-eq6bt083q0-eq6bt083q0.gz
 C:\Users\ragha\entryapp\obj\Release\net10.0\staticwebassets.build.json
 C:\Users\ragha\entryapp\obj\Release\net10.0\staticwebassets.build.json.cache
 C:\Users\ragha\entryapp\obj\Release\net10.0\staticwebassets.development.json
@@ -1119,3 +1109,14 @@ C:\Users\ragha\entryapp\obj\Release\net10.0\entryapp.dll
 C:\Users\ragha\entryapp\obj\Release\net10.0\refint\entryapp.dll
 C:\Users\ragha\entryapp\obj\Release\net10.0\entryapp.pdb
 C:\Users\ragha\entryapp\obj\Release\net10.0\ref\entryapp.dll
+C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.77216cd6ft.wasm
+C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.7ha15b1ypq.pdb
+C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\dotnet.l2jl3r9zjt.js
+C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.77216cd6ft.wasm.gz
+C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\entryapp.7ha15b1ypq.pdb.gz
+C:\Users\ragha\entryapp\bin\Release\net10.0\wwwroot\_framework\dotnet.l2jl3r9zjt.js.gz
+C:\Users\ragha\entryapp\bin\Release\net10.0\docs\sample-data\weather.json
+C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\kujhau81xx-{0}-77216cd6ft-77216cd6ft.gz
+C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\zop699ela8-{0}-7ha15b1ypq-7ha15b1ypq.gz
+C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\duesulmsx1-{0}-l2jl3r9zjt-l2jl3r9zjt.gz
+C:\Users\ragha\entryapp\obj\Release\net10.0\compressed\8k4v6bpyae-{0}-tk8c6t7ofy-tk8c6t7ofy.gz
