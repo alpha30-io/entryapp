@@ -1,0 +1,4 @@
+C:\Users\ragha\entryapp\bin\Release\net10.0\publish\wwwroot\index.html
+C:\Users\ragha\entryapp\bin\Release\net10.0\publish\entryapp.runtimeconfig.json
+C:\Users\ragha\entryapp\bin\Release\net10.0\publish\dotnet.js
+C:\Users\ragha\entryapp\bin\Release\net10.0\publish\web.config
